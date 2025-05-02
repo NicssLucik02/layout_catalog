@@ -1,0 +1,2 @@
+body{margin:0;font-family:Roboto,serif}.catalog{grid-template-columns:repeat(4,200px);justify-content:center;gap:48px 46px;padding:50px 40px;display:grid}@media (width>=300px){.catalog{grid-template-columns:repeat(1,200px)}}@media (width>=488px){.catalog{grid-template-columns:repeat(2,200px)}}@media (width>=768px){.catalog{grid-template-columns:repeat(3,200px)}}@media (width>=1024px){.catalog{grid-template-columns:repeat(4,200px)}}
+/*# sourceMappingURL=index.88b8b98c.css.map */
